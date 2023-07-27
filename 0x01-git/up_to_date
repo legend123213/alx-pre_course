@@ -1,0 +1,7 @@
+git clone
+git add .
+git commit -m "message"
+git branch branch name
+git branch -a 
+git checkout branch name
+git push main
